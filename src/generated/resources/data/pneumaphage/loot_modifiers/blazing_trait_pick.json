@@ -1,0 +1,13 @@
+{
+  "type": "pneumaphage:blazing_smelting",
+  "conditions": [
+    {
+      "condition": "minecraft:match_tool",
+      "predicate": {
+        "items": [
+          "pneumaphage:sculk_pickaxe"
+        ]
+      }
+    }
+  ]
+}

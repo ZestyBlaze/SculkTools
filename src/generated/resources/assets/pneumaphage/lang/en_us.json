@@ -1,0 +1,13 @@
+{
+  "item.pneumaphage.hold_shift": "Hold SHIFT for more info",
+  "item.pneumaphage.no_traits": "No Traits Applied",
+  "item.pneumaphage.sculk_pickaxe": "Sculk Pickaxe",
+  "item.pneumaphage.sculk_sword": "Sculk Sword",
+  "itemGroup.pneumaphage": "Pseumaphage",
+  "trait.pneumaphage.blazing": "Blazing",
+  "trait.pneumaphage.blazing.icon": "🔥",
+  "trait.pneumaphage.blazing.info": "Auto-smelts mined ores",
+  "trait.pneumaphage.silky": "Silky",
+  "trait.pneumaphage.silky.icon": "🪶",
+  "trait.pneumaphage.silky.info": "Silky soft touch when mining"
+}
