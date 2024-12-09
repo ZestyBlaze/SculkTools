@@ -1,0 +1,10 @@
+{
+  "homepage": "https://github.com/ZestyBlaze/SculkTools",
+  "1.21.4": {
+    "1.0.0": "Initial Release"
+  },
+  "promos": {
+    "1.21.4-latest": "1.0.0",
+    "1.21.4-recommended": "1.0.0"
+  }
+}
