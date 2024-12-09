@@ -1,13 +1,13 @@
 modLoader="javafml"
 loaderVersion="${loader_version_range}"
 license="${mod_license}"
-#issueTrackerURL="https://change.me.to.your.issue.tracker.example.invalid/"
+issueTrackerURL="https://github.com/ZestyBlaze/SculkTools/issues"
 
 [[mods]]
 modId="${mod_id}"
-version="${mod_version}" #mandatory
-displayName="${mod_name}" #mandatory
-updateJSONURL="https://change.me.example.invalid/updates.json"
+version="${mod_version}"
+displayName="${mod_name}"
+updateJSONURL="https://raw.githubusercontent.com/ZestyBlaze/SculkTools/refs/heads/1.21.x-neo/updates.json"
 #displayURL="https://change.me.to.your.mods.homepage.example.invalid/"
 #logoFile="examplemod.png"
 #credits=""
